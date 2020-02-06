@@ -19,6 +19,7 @@ import matplotlib.animation as animation
 import matplotlib.dates as dates
 from matplotlib.dates import DateFormatter
 import sys
+import wx
 
 
 # ## Put the data in lists
@@ -97,3 +98,11 @@ for key,value in Data.items():
 
 fig.tight_layout() #adjust the space between the different subplots
 plt.show()
+
+
+#test
+app=[]
+app = wx.App(False)  # Create a new app, don't redirect stdout/stderr to a window.
+frame = wx.Frame(None, wx.ID_ANY, "Hello World") # A Frame is a top-level window.
+frame.Show(True)     # Show the frame.
+app.MainLoop()
