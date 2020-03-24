@@ -1,0 +1,13 @@
+MANIFEST.in
+README.rst
+setup.py
+USB_Energetics_Spy/USB_Energetics_Spy.py
+USB_Energetics_Spy/__init__.py
+USB_Energetics_Spy.egg-info/PKG-INFO
+USB_Energetics_Spy.egg-info/SOURCES.txt
+USB_Energetics_Spy.egg-info/dependency_links.txt
+USB_Energetics_Spy.egg-info/not-zip-safe
+USB_Energetics_Spy.egg-info/requires.txt
+USB_Energetics_Spy.egg-info/top_level.txt
+data/200305.txt
+data/200311.txt

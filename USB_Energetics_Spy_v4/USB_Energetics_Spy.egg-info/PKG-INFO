@@ -1,0 +1,21 @@
+Metadata-Version: 1.2
+Name: USB-Energetics-Spy
+Version: 0.0.1
+Summary: Printing measurement curves from .txt files with a GUI
+Home-page: https://github.com/newville/wxmplot
+Author: Antoine Kristanek
+Author-email: geekophilie@gmail.com
+Maintainer: Lionel Darras
+Maintainer-email: Lionel.Darras@obs.ujf−grenoble.fr
+License: GNU GPL v3
+Description: Ceci est le contenu du fichier README.TXT. Il s'agit d'un fichier texte ou RST contenant la description longue du paquet. Deporter cette description dans un fichier externe a setup.py permet d'ameliorer la lisibilite du code de setup.py.
+        Ce fichier contient normalement au minimum le nom du paquet, son but, la licence et un hyperlien si possible. Il peut etre utile d'ajouter en sus un exemple.
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 1 − Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3 
+Classifier: Topic :: Utilities
+Classifier: Topic : : Software Development :: Libraries :: Python Modules
