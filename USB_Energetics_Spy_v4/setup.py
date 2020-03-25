@@ -28,7 +28,7 @@ REQUIREMENTS = [
 setup(
     name='USB_Energetics_Spy' ,
     version=USB_Energetics_Spy.__version__,
-    url='https://github.com/newville/wxmplot' ,
+    url='https://github.com/Beldramma/USB_Energetics_Project_Polytech_2020' ,
     license='GNU GPL v3' ,
     description='Printing measurement curves from .txt files with a GUI' ,
     long_description=README,
