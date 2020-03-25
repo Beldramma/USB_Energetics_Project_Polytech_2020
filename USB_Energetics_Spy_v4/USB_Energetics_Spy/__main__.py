@@ -1,5 +1,5 @@
 import wx
-import usb_energetics_spy
+import USB_Energetics_Spy
 
 
 app = wx.App(False)
