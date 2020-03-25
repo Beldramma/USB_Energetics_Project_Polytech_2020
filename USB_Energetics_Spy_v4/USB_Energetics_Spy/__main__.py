@@ -1,7 +1,9 @@
+# -*- coding: utf-8 -*-
+#!/usr/bin/python
 import wx
-import USB_Energetics_Spy
-
+from .USB_Energetics_Spy import MainFrame
 
 app = wx.App(False)
-frame = usb_energetics_spy.MainFrame()
+frame = MainFrame()
+
 app.MainLoop()
